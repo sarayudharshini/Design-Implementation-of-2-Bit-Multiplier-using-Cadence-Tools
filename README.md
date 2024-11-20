@@ -9,9 +9,9 @@ To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simu
 •	Cadence Virtuoso Software
 
 # Circuit diagram:
-![image](https://github.com/user-attachments/assets/df43da27-651a-4857-b6d7-00329bae7ffa)
+![WhatsApp Image 2024-11-15 at 15 07 27_d62a3dfc](https://github.com/user-attachments/assets/d8290e0a-bf65-4937-8bd7-8896bed617a6)
 
-
+# procedure
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
 •	csh
